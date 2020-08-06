@@ -1,0 +1,7 @@
+# All default config of this project.
+seed: 100
+id: CHANGE_ME
+target: CHANGE_ME
+n_fold: 5
+early_stopping_rounds: 100
+verbose: False
